@@ -52,6 +52,10 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
 
     <img src="https://cdn.discordapp.com/attachments/960222183953666089/1113013994664501268/bolt-landscape.jpg"></noscript>
     <video src="https://cdn.discordapp.com/attachments/960222183953666089/1113516154124771459/Discord_-_komedi-discord_-_DORIMOS_FAMILY.mp4" controls></video>
+    <video src="https://cdn.discordapp.com/attachments/960222183953666089/1113517677084946584/347251090_1975322176143997_3664542990778882726_n.mp4" controls></video>
+    <video src="https://cdn.discordapp.com/attachments/960222183953666089/1113517536726757567/347786467_776430893950866_2325302929680226581_n.mp4" controls></video>
+
+
 
 
 

@@ -51,6 +51,8 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
 
 
     <img src="https://cdn.discordapp.com/attachments/960222183953666089/1113013994664501268/bolt-landscape.jpg"></noscript>
+    <video src="https://cdn.discordapp.com/attachments/960222183953666089/1113516154124771459/Discord_-_komedi-discord_-_DORIMOS_FAMILY.mp4" controls></video>
+
 
 
     <div class="row" style="margin-top:10px;">

@@ -56,6 +56,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
         <p>Email:<a href="mailto:support@lossless.com">support@lossless.com</a></p>
         <p>Instagram:<a href="https://www.instagram.com/sas_765/">@kopintehlossless</a></p>
         <p>Twiter:<a href="https://twitter.com/Hehe765Hehe">@kopintehlossless</a></p>
+        <video src="https://cdn.discordapp.com/attachments/960222183953666089/1113516154124771459/Discord_-_komedi-discord_-_DORIMOS_FAMILY.mp4" controls></video>
 
         <footer>
            <p style="text-align:center; font-size:0.8em;">&copy; Kopi N Teh Lossless. All Rights Reserved.</p>

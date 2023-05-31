@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ${{ secrets.BARIQ_SERVER }}
-        username: ${{ secrets.ftp_BARIQ_USERNAME }}
-        password: ${{ secrets.ftp_BARIQ_PASSWORD }}
+        username: ${{ secrets.BARIQ_USERNAME }}
+        password: ${{ secrets.BARIQ_PASSWORD }}

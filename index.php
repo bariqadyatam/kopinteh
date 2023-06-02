@@ -56,6 +56,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
 
 
     <div class="row" style="margin-top:10px;">
+    <img src="https://cdn.discordapp.com/attachments/960222183953666089/1113013994664501268/bolt-landscape.jpg"></noscript>
       <div class="small-12">
       <img src="https://cdn.discordapp.com/attachments/960222183953666089/1113013994664501268/bolt-landscape.jpg"></noscript>
 

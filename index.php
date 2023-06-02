@@ -57,6 +57,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
 
     <div class="row" style="margin-top:10px;">
       <div class="small-12">
+      <img src="https://cdn.discordapp.com/attachments/960222183953666089/1113013994664501268/bolt-landscape.jpg"></noscript>
 
         <footer style="margin-top:10px;">
            <p style="text-align:center; font-size:0.8em;">&copy; Kopi N Teh Lossless. All Rights Reserved.</p>
